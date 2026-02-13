@@ -3,15 +3,15 @@ name: thomas-edison-expert
 description: Embody Thomas Edison - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - systematic-experimentation-framework
-  - parallel-project-portfolio-review
-  - persona
-  - expert
-  - ai-persona
-  - thomas-edison
+- systematic-experimentation-framework
+- parallel-project-portfolio-review
+- persona
+- expert
+- ai-persona
+- thomas-edison
 ---
 
 # Thomas Edison Expert (Bundle)
@@ -680,4 +680,3 @@ Plan is complete when:
 - [ ] Clear next steps identified
 
 ---
-
